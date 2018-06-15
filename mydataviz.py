@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 global MY_FILE
-MY_FILE = "/Users/Ranger/Programming/new-coder/dataviz/data/sample_sfpd_incident_all.csv"
+MY_FILE = "Portfolio/data/sample_sfpd_incident_all.csv "
 
 def parse(raw_file, delimiter):     # Parses raw CSV file to a JSON-line object
 
