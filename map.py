@@ -1,7 +1,7 @@
 
 import geojson 
 
-from mydataviz import parse, MY_FILE
+from dataviz import parse, MY_FILE
 
 def create_map(data_file):
 
